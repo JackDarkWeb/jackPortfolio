@@ -142,7 +142,7 @@
           <div class="row px-4">
             <h6>LARAVEL</h6>
             <div class="progress w-100" style="height: 22px;">
-              <div class="progress-bar bg-info w-50" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
+              <div class="progress-bar bg-info w-50" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">70%</div>
             </div>
             <h6>PHP</h6>
             <div class="progress w-100" style="height: 22px;">
